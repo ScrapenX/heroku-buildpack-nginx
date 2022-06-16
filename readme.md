@@ -1,6 +1,6 @@
 # Heroku Buildpack: NGINX
 
-Nginx-buildpack vendors NGINX inside a dyno and connects NGINX to an app server via UNIX domain sockets.
+Nginx-buildpack vendors NGINX inside a dyno and connects NGINX to an app server via UNIX domain sockets. See [here](https://github.com/googlecodelabs/your-first-pwapp/issues/206)
 
 ## Motivation
 
